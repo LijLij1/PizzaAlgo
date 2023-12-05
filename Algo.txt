@@ -1,4 +1,5 @@
 Step 1: Choose desired pizza place
+Step 1a: Find nearest location of desired pizza place
 Step 2: Choose desired style of pizza and toppings
 Step 3: Order the pizza
 step 4: Update user of order status
